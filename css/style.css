@@ -80,6 +80,10 @@ ul{
     color: white;
 }
 
+table{
+    border-spacing: 0;
+}
+
 tr{
     width: 200px;
     text-align: left;
