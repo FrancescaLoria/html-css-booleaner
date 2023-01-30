@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER */
+
+/* background header */
+
+.containerheader{
+    height: 100px;
+    background-color: rgb(99, 208, 245);
+    background-image: url(../img/pattern.png);
+    background-size: 35%;
+}
+
+/* /background header */
+
