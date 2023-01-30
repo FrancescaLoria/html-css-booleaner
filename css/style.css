@@ -43,3 +43,9 @@ h1{
     color: rgb(71, 209, 255);
 }
 /* /title section */
+
+/* img title */
+.img-title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
