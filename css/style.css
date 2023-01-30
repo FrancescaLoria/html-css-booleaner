@@ -6,14 +6,26 @@
 
 /* HEADER */
 
-/* background header */
 
+/* background header */
 .containerheader{
     height: 100px;
     background-color: rgb(99, 208, 245);
     background-image: url(../img/pattern.png);
     background-size: 35%;
+    position:relative;
 }
-
 /* /background header */
 
+
+/* logo title */
+.logoheader{
+    height: 40px;
+    width: 130px;
+    background-image: url(file:///C:/Boolean/projects/html-css-booleaner/img/logo.svg);
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: 0;
+    
+}   
+/* /logo title */
