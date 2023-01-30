@@ -29,3 +29,17 @@
     
 }   
 /* /logo title */
+
+/* title section */
+h1{
+    font-size: 45px;
+}
+
+.title-grey{
+    color: gray;
+}
+
+.title-blue{
+    color: rgb(71, 209, 255);
+}
+/* /title section */
